@@ -1,4 +1,5 @@
-# React + Vitehttps://terentakula.github.io/New-Portfolio-MacOS/
+# React + Vite
+https://terentakula.github.io/New-Portfolio-MacOS/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
